@@ -1,0 +1,83 @@
+{
+  "code": "ANYANG-GANGHWA",
+  "title": "SMASH ANYANG GANGHWA",
+  "school": "안양대",
+  "fullName": "안양대학교",
+  "campusName": "안양대학교 강화캠퍼스",
+  "tagline": "안양대를 부셔 (시험기간 스트레스 해소)",
+  "description": "안양대학교 강화캠퍼스를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 안양대학교 강화캠퍼스 3D 화면과 SMASH ANYANG GANGHWA 제목",
+  "url": "https://hong-iron.github.io/SMASH-ANYANG-GANGHWA/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 472163645
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        37.7099912,
+        126.4475368
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 건축물대장에 2017년에 지은 2층 근린생활시설로 올라 있고, 대지가 학교 부지(약 18만㎡)가 아닌 677㎡짜리 따로 떨어진 필지라서 학교 건물이 아니다."
+    },
+    {
+      "at": [
+        37.709095,
+        126.4484486
+      ],
+      "n": "복사마을",
+      "why": "학교 건물 아님 — '복사마을'이라는 이름의 건물로, 같은 건물의 대장 기록이 1977년 단독주택(대지 1,792㎡)이고 도로 필지 위에 있으며 학교 캠퍼스맵에도 없다."
+    },
+    {
+      "at": [
+        37.7087718,
+        126.4468558
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 건축물대장상 1978년 57㎡짜리 단독주택으로, 학교 부지가 아닌 삼성리 809-35 대지 위의 민가다."
+    },
+    {
+      "at": [
+        37.7094385,
+        126.4489754
+      ],
+      "n": "B동",
+      "why": "같은 건물 겹침 — 생활관(5번)과 같은 모양·같은 넓이의 윤곽이 브이월드 자료의 다른 층에서 서쪽으로 약 42m 밀려 한 번 더 들어온 것이다."
+    },
+    {
+      "at": [
+        37.7114688,
+        126.4450205
+      ],
+      "n": "",
+      "why": "같은 건물 겹침 — 본관(2번)과 같은 모양·같은 넓이의 윤곽이 서쪽으로 약 44m 밀려 한 번 더 그려진 것이다."
+    },
+    {
+      "at": [
+        37.7110021,
+        126.4442249
+      ],
+      "n": "",
+      "why": "같은 건물 겹침 — 학생회관(3번)과 같은 모양·같은 넓이의 윤곽이 서쪽으로 약 43m 밀려 한 번 더 그려진 것이다."
+    }
+  ],
+  "look": {
+    "본관": {
+      "style": "brick",
+      "wall": "#c88660",
+      "glass": "#4a6f6c",
+      "frame": "#e6e4de"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
