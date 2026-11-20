@@ -1,0 +1,34 @@
+{
+ "region": "인천 강화군 불은면",
+ "nameEn": "Anyang University Ganghwa Campus",
+ "added": "2026-11-01T02:27",
+ "rank": 331,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "KIMPO",
+   "campus": "김포대학교 월곶캠퍼스",
+   "km": 9.0
+  },
+  {
+   "code": "WOONGJI",
+   "campus": "웅지세무대학교",
+   "km": 28.1
+  },
+  {
+   "code": "KIWU",
+   "campus": "경인여자대학교",
+   "km": 30.2
+  },
+  {
+   "code": "GINUE",
+   "campus": "경인교육대학교 인천캠퍼스",
+   "km": 30.6
+  },
+  {
+   "code": "JAENEUNG",
+   "campus": "재능대학교 송림캠퍼스",
+   "km": 31.7
+  }
+ ]
+}
